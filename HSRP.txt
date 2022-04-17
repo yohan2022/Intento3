@@ -1,0 +1,2 @@
+HSRP 
+High Stanbdby Routing Protocolo, es un protocolo propietario de Cisco
